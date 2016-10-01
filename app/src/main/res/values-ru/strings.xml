@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Задания</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_task_details">Детали Задания</string>
+    <string name="newTask">Новое Задание</string>
+    <string name="EnterNewTask">Создайте Новое Задание</string>
+    <string name="taskName">Имя задания: </string>
+    <string name="taskNameEdit">имя</string>
+    <string name="enterDate">Дата выполнения: </string>
+    <string name="enterTime">время выполнения: </string>
+    <string name="taskMessageEnter">Описание Задания</string>
+    <string name="taskMessageEdit">Описание</string>
+    <string name="okButton">Принять</string>
+    <string name="cancelButton">Отмена</string>
+    <string name="taskDetails">Детали Задания</string>
+    <string name="dateTask">Дата: </string>
+    <string name="timeTask">Время: </string>
+    <string name="messageTask">Описание Задания</string>
+    <string name="addFavsButton">Добавить в Избранные</string>
+    <string name="doneButton">Выполнено</string>
+    <string name="removeButton">Удалить</string>
+    <string name="favsPage">Избранные</string>
+    <string name="addNewTaskMenu">Добавить Новое Задание</string>
+    <string name="fromFavsMenu">Из Избранных</string>
+    <string name="showDetsMenu">Показать Детали</string>
+    <string name="markDoneMenu">Выполнено</string>
+    <string name="removeMenu">Удалить</string>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Reminder</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_task_details">TaskDetails</string>
+    <string name="newTask">New Task</string>
+    <string name="EnterNewTask">Enter new Task</string>
+    <string name="taskName">Task Name: </string>
+    <string name="taskNameEdit">task name</string>
+    <string name="enterDate">Enter Date: </string>
+    <string name="enterTime">ENTER TIME: </string>
+    <string name="taskMessageEnter">Enter Task Message</string>
+    <string name="taskMessageEdit">Message</string>
+    <string name="okButton">OK</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="taskDetails">TASK DETAILS</string>
+    <string name="dateTask">Date: </string>
+    <string name="timeTask">TIME: </string>
+    <string name="messageTask">Task Message</string>
+    <string name="addFavsButton">Add To Favourites</string>
+    <string name="doneButton">Done</string>
+    <string name="removeButton">Remove</string>
+    <string name="favsPage">Favourites</string>
+    <string name="addNewTaskMenu">Add New Task</string>
+    <string name="fromFavsMenu">From Favourites</string>
+    <string name="showDetsMenu">Show Details</string>
+    <string name="markDoneMenu">Mark Done</string>
+    <string name="removeMenu">Remove</string>
+</resources>
